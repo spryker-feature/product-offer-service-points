@@ -9,12 +9,12 @@
         "php": ">=8.2",
         "spryker/product-offer-service-point": "^1.2.0",
         "spryker/product-offer-service-point-data-import": "^0.4.0",
-        "spryker/product-offer-service-point-gui": "^1.0.0",
+        "spryker/product-offer-service-point-gui": "^2.0.0",
         "spryker/product-offer-service-point-storage": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     },
     "suggest": {
